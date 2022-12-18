@@ -29,7 +29,7 @@ section.  If you are able to control your `supervisord` instance with
 ## Command-Line Syntax
 
 ```shell
-   $ uptime_limiter [-p processname=byte_size] [-g groupname=byte_size] [-a byte_size]
+   $ uptime_limiter [-p processname=time_limit] [-g groupname=time_limit] [-a time_limit]
 ``` 
 ```shell
    program:: uptime_limiter
